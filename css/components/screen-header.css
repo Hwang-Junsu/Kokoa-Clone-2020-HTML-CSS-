@@ -11,7 +11,7 @@
   font-weight: 600;
 }
 
-.screen-header__icons {
+.cog {
   position: relative;
 }
 .screen-header__icons span {
@@ -27,6 +27,5 @@
   justify-content: center;
   align-items: center;
   position: absolute;
-  left: 68px;
-  bottom: 18px;
+  bottom: 20px;
 }
