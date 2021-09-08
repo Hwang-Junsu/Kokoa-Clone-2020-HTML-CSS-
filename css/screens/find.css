@@ -55,6 +55,15 @@
   align-items: center;
 }
 
+.open-post__second {
+  border-top: var(--main-border);
+  margin-top: 12px;
+  padding-top: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .open-post__title {
   font-weight: 600;
   margin-bottom: 10px;

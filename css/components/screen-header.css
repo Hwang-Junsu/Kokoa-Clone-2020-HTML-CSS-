@@ -11,6 +11,22 @@
   font-weight: 600;
 }
 
+.screen-header__icons {
+  position: relative;
+}
 .screen-header__icons span {
   margin-left: 20px;
+}
+
+.screen-header__cognoti {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 68px;
+  bottom: 18px;
 }
